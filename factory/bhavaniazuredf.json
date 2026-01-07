@@ -1,0 +1,9 @@
+{
+	"name": "bhavaniazuredf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56175a5a-edad-4a08-8a77-38321acbd48c",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
